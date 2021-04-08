@@ -2,6 +2,10 @@
 	Maximo Savino
 
 ## EDAD
-	18
+	7mo "C"
 
-<a href="CV.txt">Curriculum</a>
+##LINK AL CURRICULUM
+	<a href="CV.md">Curriculum</a>
+
+## LINK A EXPLICACION
+	<a href="Explicacion.md">Explicacion</a>
